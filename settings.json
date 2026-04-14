@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "emerald.magmanode.com:31451",
+    "ip": "emerald.magmanode.com",
     "port": 31451,
     "version": "1.20.1",
     "try-creative": false
