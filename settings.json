@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "zenithworld.mcsh.io",
+    "ip": "zenithworld.mcsh.",
     "port": 25565,
     "version": "1.20.1",
     "try-creative": false
