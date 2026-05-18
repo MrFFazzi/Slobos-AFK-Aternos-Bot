@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "zenithworld.mcsh.",
-    "port": 25565,
+    "ip": "zenithworld.go-mc.pro",
+    "port": 25595,
     "version": "1.20.1",
     "try-creative": false
   },
